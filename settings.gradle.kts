@@ -17,3 +17,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "VENIX-TV"
 include(":app")
+
